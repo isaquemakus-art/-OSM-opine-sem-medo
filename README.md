@@ -1,2 +1,15 @@
 # -OSM-opine-sem-medo
 opine oque vc quiser e converse com aleatorios sem medo se se expor, ideias politicas, ideologicas, religiosas e preconceituosas
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>OSM</title>
+</head>
+<body>
+<h1> converce e opine com todos<\h1>
+<p> fale qualquer coisa que vie na telha, n tenha medo de se expor. </p>
+</body>
+</html>
